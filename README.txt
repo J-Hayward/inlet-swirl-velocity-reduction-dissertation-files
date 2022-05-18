@@ -7,13 +7,16 @@ Contents:
 -recording.wbpz 
 	Recording archive, not added
 
--recordings/ 
-	Recordings folder of how to do project
 
 -Geometries.zip
 	All the geometries meant to be used in the dissertation, only the baseline was used. 
 	Note that the angle test geometries's slots are constructed different to allow for the angle change (use the calculator below).
-	
+
+-recordings/ 
+	Recordings folder of how to do project
+
+-dissertation files/
+	Files used in project, contains logbook
 
 
 Links:
