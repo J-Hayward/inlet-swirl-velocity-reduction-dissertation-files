@@ -25,5 +25,5 @@ Links:
 https://www.cfd-online.com/
 
 -Work related
---Calculator for values of angle for the geometrys, H and W are height and width respectively.
+--Calculator for values of angle for the geometries, H and W are height and width respectively.
 https://www.desmos.com/calculator/zzdmjrqm0j
